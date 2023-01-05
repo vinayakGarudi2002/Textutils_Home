@@ -1,0 +1,37 @@
+.textArea{
+    position: relative;
+    right: 462px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.copy{
+    position: absolute;
+    right: 119px;
+    background-color: rgb(0 0 0);
+    color: white;
+    border: none;
+    opacity: .5;
+    margin-top: 5px;
+    font-size: 23px;
+    padding-bottom: 6px;
+    border-radius: 15px;
+    width: max-content;
+}
+.gbtn{
+        background-color: green;
+}
+
+.bgoptions{
+    position: absolute;
+    top: 41px;
+    margin-left: -10px;
+    width: fit-content;
+}
+.btn-bg-controler{
+    font-size: 13px;
+}
+
+.alertStyle{
+    width:100vw;
+    opacity: 0.8;
+}
